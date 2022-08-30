@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextMinuteT9Paxton", "NextMinuteT9Paxton.csproj", "{5D9DA7F5-0A20-49DE-B88C-50A1BF7B96A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextMinuteT9Paxton_UnitTest", "..\NextMinuteT9Paxton_UnitTest\NextMinuteT9Paxton_UnitTest.csproj", "{89B34273-46C1-47C6-B4A2-C258CB619E2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D9DA7F5-0A20-49DE-B88C-50A1BF7B96A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D9DA7F5-0A20-49DE-B88C-50A1BF7B96A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D9DA7F5-0A20-49DE-B88C-50A1BF7B96A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D9DA7F5-0A20-49DE-B88C-50A1BF7B96A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89B34273-46C1-47C6-B4A2-C258CB619E2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B34273-46C1-47C6-B4A2-C258CB619E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B34273-46C1-47C6-B4A2-C258CB619E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B34273-46C1-47C6-B4A2-C258CB619E2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED6614D4-BA0C-40BE-9241-6AC71444CFFA}
+	EndGlobalSection
+EndGlobal
