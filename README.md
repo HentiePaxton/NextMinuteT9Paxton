@@ -39,7 +39,7 @@ For each test case, output one line containing "Case #x: " followed by the messa
 
 ## Solution
 
-For this exercise I used a very basic Windows Forms Applicaiton as the UI to quickly allow test inputs and demontrate T9 translation.
+For this exercise I used a very basic Windows Forms Application as the UI to quickly allow test inputs and demonstrate T9 translation.
 
 The solution includes 2 projects 
 * **NextMinuteT9Paxton** - The Windows Forms application & the T9Translator class
