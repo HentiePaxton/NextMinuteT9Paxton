@@ -147,7 +147,7 @@ namespace NextMinuteT9Paxton_UnitTest
 * Visual Studio 2019 or later
 
 #### Steps
-* Pull from Git (master)
+* Pull from Git (master): **git clone https://github.com/HentiePaxton/NextMinuteT9Paxton.git**
 * Build Solution
 * Set **NextMinuteT9Paxton** as Startup application
 * Run the application
